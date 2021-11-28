@@ -21,5 +21,5 @@ jobs:
         uses: jpetrucciani/black-check@21.9b0
         with:
           # File or directory to run black on
-          path: ${GITHUB_WORKSPACE}
+          path: "${GITHUB_WORKSPACE}"
           black_flags: --check
