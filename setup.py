@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(
-    version = '0.2.0',
+    version = '0.3.0',
     name="pytest-talisker",
     packages=["pytest_talisker"],
     url="https://github.com/canonical-ols/pytest-talisker",
